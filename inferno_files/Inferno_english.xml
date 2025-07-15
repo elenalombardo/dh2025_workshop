@@ -284,7 +284,7 @@
 
             <lg n="41" xml:id="lg041">
                <l n="121">I saw Electra with companions many,</l>
-               <l n="122">’Mongst whom I knew both Hector and Aeneas,</l>
+               <l n="122">’Mongst whom I knew both <persName role="hero" subtype="greek" type="fictional" xml:id="hect01">Hector</persName> and Aeneas,</l>
                <l n="123">Caesar in armour with gerfalcon eyes;</l>
             </lg>
 
