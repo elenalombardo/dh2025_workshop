@@ -134,7 +134,7 @@
 	"id": "https://raw.githubusercontent.com/elenalombardo/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145631498",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:56:31.498Z",
-	"dcterms:modified": "2025-07-15T13:56:31.498Z",
+	"dcterms:modified": "2025-07-15T13:59:08.159Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/elenalombardo",
 		"@type": [
@@ -165,10 +165,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": [
-			"schema:Person",
-			"cwrc:FictionalPerson"
-		]
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/8194433",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -224,7 +223,7 @@
 
             <lg n="5" xml:id="lg005">
                <l n="13">“Let us descend now into the blind world,”</l>
-               <l n="14">Began <persName type="fictional" xml:id="virg01">the Poet</persName>, pallid utterly;</l>
+               <l n="14">Began <persName type="real" xml:id="virg01" key="Virgil." ref="http://viaf.org/viaf/8194433">the Poet</persName>, pallid utterly;</l>
                <l n="15">“I will be first, and thou shalt second be.”</l>
             </lg>
 
